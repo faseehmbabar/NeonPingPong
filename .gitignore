@@ -1,0 +1,13 @@
+# IDE / Build folders
+cmake-build-debug/
+cmake-build-release/
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Compiled objects / binaries
+*.o
+*.out
+*.app
